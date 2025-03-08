@@ -9,3 +9,4 @@ node{
               echo 'Building dev'
         }
   }
+}
